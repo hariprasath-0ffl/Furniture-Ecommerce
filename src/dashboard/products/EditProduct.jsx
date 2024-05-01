@@ -35,7 +35,7 @@ const EditProduct = () => {
     // Fetch product details by ID and set the form data
     const fetchProductDetails = async () => {
       try {
-        const response = await axios.get(`http://localhost:3000/products/${id}`);
+        const response = await axios.get(`https://furniture-ecommerce-backened.onrender.com/products/${id}`);
         const productData = response.data;
 
         setFormData({
