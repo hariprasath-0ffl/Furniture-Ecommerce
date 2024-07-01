@@ -36,7 +36,7 @@ This is a furniture e-commerce application built using React. It allows visitors
 
 1. Clone the repository
   ```bash
-  git clone https://github.com/Moslihbadr/E-commerce.git
+  git clone https://github.com/hariprasath-0ffl/Furniture-Ecommerce.git
   cd furniture-ecommerce-app
   ```
 2. Start the React app
