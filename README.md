@@ -91,5 +91,4 @@ Here are some screenshots from the Furniture E-commerce React App:
 ## Contributing
 Feel free to contribute to the development of this project. Fork the repository, create a branch, make your changes, and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
